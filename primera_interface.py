@@ -26,7 +26,6 @@ mi_frame.config(width="650", height="350")#Poner alto y ancho a un frame
 
 mi_frame.config(relief="groove")#Poner un relieve
 
-
 mi_frame.config(bd=35)#Poner borde
 
 mi_frame.config(cursor="pirate")#cambiar cursor
