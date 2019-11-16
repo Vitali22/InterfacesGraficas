@@ -10,6 +10,6 @@ raiz.resizable(True,True)#Se pueda agrandar la pantalla
 
 #raiz.geometry("650x350") #poner una medida de ventana
 
-raiz.config(bg="blue")
+raiz.config(bg="blue")#Cambiar el color de la raíz
 
 raiz.mainloop()#Siempre debe ir al último del código
